@@ -1,12 +1,6 @@
-/*
-  ==============================================================================
-
-    This file was auto-generated!
-
-    It contains the basic startup code for a Juce application.
-
-  ==============================================================================
-*/
+/* Teamwork v1.2
+ *
+ */
 
 #include "../JuceLibraryCode/JuceHeader.h"
 
